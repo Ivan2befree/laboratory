@@ -40,7 +40,7 @@
     "@stellar/freighter-api": "1.1.2",
     "@stellar/prettier-config": "^1.0.1",
     "@stellar/tsconfig": "^1.0.2",
-    "axios": "^0.25.0",
+    "axios": "^0.28.0",
     "browser-sync": "^2.27.7",
     "chai": "^4.3.6",
     "classnames": "^2.2.0",
